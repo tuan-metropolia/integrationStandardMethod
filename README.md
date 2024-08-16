@@ -1,0 +1,1 @@
+This repository is to store exercises and lab project of the integration of standards and methods part of the course autoamtion information technology 2 organized in Sep.2024
